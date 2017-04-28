@@ -1,0 +1,30 @@
+// All styles come here!
+body{
+	font-family: sans-serif;
+    border-radius: 10px;
+    background-color: rgba(152, 177, 171, 0.06);
+}
+
+.row{
+	width: 100%;
+}
+
+.col{
+	width: 50%;
+	float: left;
+}
+.btn-medium{
+    border-radius: 5px;
+    height: 35px;
+    width: 90px;
+    background-color: #3a3ac3;
+    color: white;
+}
+
+.btn-medium :hover{
+    border-radius: 5px;
+    height: 35px;
+    width: 90px;
+    background-color: white;
+    color: #3a3ac3;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "Vehicle sales for demo purpose to otsuka",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundeepkotari78/Angular2.git"
+  },
+  "author": "sundeepkotari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sundeepkotari78/Angular2/issues"
+  },
+  "homepage": "https://github.com/sundeepkotari78/Angular2#readme"
+}
